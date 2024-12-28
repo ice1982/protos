@@ -1,3 +1,3 @@
-module github.com/ice1982/protos
+module github.com/ice1982
 
 go 1.22.0
